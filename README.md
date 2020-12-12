@@ -1,5 +1,5 @@
 # OrthogonalDistanceRegression
-Fitting a vector data 'vect' using Orthogonal Distance Regression.
+Fitting a vector data 'vect' using Orthogonal Distance Regression (or Total least squares).
 
 Minimize the ortogonal distance by adjusting both the values of the dependent and independent variables.
 
